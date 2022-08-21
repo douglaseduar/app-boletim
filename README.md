@@ -1,7 +1,7 @@
-# 📱 Aplicação Mobile 'Boletim'.
+# 📱 Aplicação Mobile 'Boletim'
 ## Apresentação:
 
-Sistema desenvolvido durante o curso de Análise e Desenvolvimento de Sistemas, o qual é posível cadastrar alunos e suas respectivas notas e apresenta=las quando solciitadas atráves do Banco de dados 
+Sistema desenvolvido durante o curso de Análise e Desenvolvimento de Sistemas, o qual é posível cadastrar alunos e suas respectivas notas e apresentá-las quando solciitadas atráves do Banco de dados 
 
 ## Funcionalidades:
 
